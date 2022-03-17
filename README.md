@@ -25,7 +25,7 @@
  <a href="https://linkedin.com/in/rafael-santdev" target="_blank">
     <img height="25px" src="https://img.shields.io/badge/-Instagram-C13584?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/rafaelrdscoding]     (https://instagram.com/rafaelrdscoding)" />
  </a>
- <a href="https://linkedin.com/in/rafael-santdev" target="_blank">
+ <a href="https://wa.me/5593992326867" target="_blank">
   <img height="25px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  </a>
 </div>
