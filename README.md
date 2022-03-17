@@ -3,6 +3,7 @@
 
 <h1 align="center">Hi 👋 ! I'm Rafael</h1>
 <h3 align="center">Desenvolvedor Full Stack</h3>
+ :house_with_garden: I’m from Brazil.
  
 <!-- <p align="center">
   <a href="https://github.com/rafael-santos-dv/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Founder+CEO+at+GrowMore;Freelancer;Tennis+Player"></a>
@@ -10,7 +11,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rafael-Santos-DV)](https://github.com/Rafael-Santos-DV)
+<img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rafael-Santos-DV)](https://github.com/Rafael-Santos-DV" />
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rafael-santdev](https://linkedin.com/in/rafael-santdev)
 
 ### SKILLS 
