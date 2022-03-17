@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-![langs](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=%20https://linkedin.com/in/rafael-santdev)](%20https://linkedin.com/in/rafael-santdev))
+https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=%20https://linkedin.com/in/rafael-santdev)](%20https://linkedin.com/in/rafael-santdev)
 
 ### SKILLS 
 ![langs](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
