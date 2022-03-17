@@ -5,10 +5,6 @@
 <h3 align="center">Desenvolvedor Full Stack</h3>
  :house_with_garden: I’m from Brazil.
  
-<!-- <p align="center">
-  <a href="https://github.com/rafael-santos-dv/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Founder+CEO+at+GrowMore;Freelancer;Tennis+Player"></a>
-</p> -->
-
 
 <h3 align="left">Connect with me:</h3>
 <div>
@@ -33,18 +29,18 @@
 ![lamgs](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![l](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![L](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![l](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![l](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<!-- ![l](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) -->
+<!-- ![l](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) -->
 ![l](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![l](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![l](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+<!-- ![l](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) -->
 ![l](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![l](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+<!-- ![l](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green) -->
 ![l](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![l](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+<!-- ![l](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) -->
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+<!-- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) -->
+<!-- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) -->
 
 ### Work experience
 - Founder CEO at GrowMore
