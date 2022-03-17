@@ -93,7 +93,7 @@ site-sportnet-new&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D8
 </a>
 
 </div>
-
+![Snake animation](https://github.com/rafael-santos-dv/rafael-santos-dv/blob/output/github-contribution-grid-snake.svg)
 
 Here are some parrots🦜
 
