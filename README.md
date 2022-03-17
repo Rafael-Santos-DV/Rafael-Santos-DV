@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <div>
  
- <a href="" target="">
+ <a href="https://github.com/Rafael-Santos-DV" target="_blank">
   <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rafael-Santos-DV)](https://github.com/Rafael-Santos-DV" />
  </a>
 
