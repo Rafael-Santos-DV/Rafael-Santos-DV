@@ -50,28 +50,29 @@
 <hr>
 
 ### Recent repo
-<a href="https://github.com/rafael-santos-dv/NASA-ISS-tracker">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-santos-dv&repo=NASA-ISS-tracker&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"/>
+<a href="https://github.com/rafael-santos-dv/social-network-ts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-santos-dv&repo=social-network-ts&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"/>
 </a>
 
-<a href="https://github.com/rafael-santos-dv/Solar-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-santos-dv&repo=Solar-system&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
+<a href="https://github.com/rafael-santos-dv/site-mariah-store">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-santos-dv&repo=site-mariah-store&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
 </a>
 
-<a href="https://github.com/rafael-santos-dv/TESLA-Lane-detection">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-santos-dv&repo=TESLA-Lane-detection&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
+<a href="https://github.com/rafael-santos-dv/project-palpites-futebol-back-end">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-santos-dv&repo=project-palpites-futebol-back-end&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
 </a>
 
-<a href="https://github.com/rafael-santos-dv/Breast-cancer-prediction-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-santos-dv&repo=Breast-cancer-prediction-&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
+<a href="https://github.com/rafael-santos-dv/project-palpites-jogos-front-end">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-santos-dv&repo=project-palpites-jogos-front-end&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
 </a>
 
-<a href="https://github.com/rafael-santos-dv/Windows-11">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-santos-dv&repo=Windows-11&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
+<a href="https://github.com/rafael-santos-dv/site-sportnet-new">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-santos-dv&repo=
+site-sportnet-new&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
 </a>
 
-<a href="https://github.com/rafael-santos-dv/Black-Hole-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-santos-dv&repo=Black-Hole-&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
+<a href="https://github.com/rafael-santos-dv/landing-page-discord-clone-react">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-santos-dv&repo=Blanding-page-discord-clone-react&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
 </a>
 
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
