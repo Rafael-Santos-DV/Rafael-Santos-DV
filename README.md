@@ -28,7 +28,9 @@
  <a href="https://wa.me/5593992326867" target="_blank">
   <img height="25px" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  </a>
+ 
 </div>
+
 
 
 
@@ -43,6 +45,7 @@
 ![l](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![l](https://img.shields.io/badge/mongodb-4DB33D?style=for-the-badge&logo=mongodb&logoColor=black)
 ![l](https://img.shields.io/badge/typescript-ffffff?style=for-the-badge&logo=typescript&logoColor=azul)
+![l](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
  
 ### Work experience
 - Founder CEO at GrowMore
