@@ -12,7 +12,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <div>
-<img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rafael-Santos-DV)](https://github.com/Rafael-Santos-DV" />
+ 
+ <a href="" target="">
+  <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rafael-Santos-DV)](https://github.com/Rafael-Santos-DV" />
+ </a>
+
 <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rafael-santdev](https://linkedin.com/in/rafael-santdev)" />
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
