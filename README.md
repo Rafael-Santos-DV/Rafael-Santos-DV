@@ -11,18 +11,18 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<div border="1px solid red">
+<div>
  
  <a href="https://github.com/Rafael-Santos-DV" target="_blank">
-   <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rafael-Santos-DV)](https://github.com/Rafael-Santos-DV" />
+   <img height="30px" src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rafael-Santos-DV)](https://github.com/Rafael-Santos-DV" />
  </a>
  
  <a href="https://linkedin.com/in/rafael-santdev" target="_blank">
-   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rafael-santdev]     (https://linkedin.com/in/rafael-santdev)" />
+   <img height="30px" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rafael-santdev]     (https://linkedin.com/in/rafael-santdev)" />
  </a>
  
 <a href="mailto:santosrafaell187@gmail.com" target="_blank">
- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ <img height="30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
 
 
