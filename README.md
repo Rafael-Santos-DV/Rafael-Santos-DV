@@ -46,6 +46,7 @@
 ![l](https://img.shields.io/badge/mongodb-4DB33D?style=for-the-badge&logo=mongodb&logoColor=black)
 ![l](https://img.shields.io/badge/typescript-ffffff?style=for-the-badge&logo=typescript&logoColor=azul)
 ![l](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![l](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
  
 ### Work experience
 - Founder CEO at GrowMore
