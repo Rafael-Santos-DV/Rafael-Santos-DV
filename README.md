@@ -56,11 +56,6 @@
 ![l](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![l](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### Work experience
-- Founder CEO at GrowMore
-- Freelancer
-- Virtual Intern at Microsoft
-- Virtal Intern at Deloitte
 
  <img align="right" height="80em" src="https://i.pinimg.com/originals/4a/ff/a0/4affa0f1f9da41409869f7da57e0f88c.gif" >
 </div>
@@ -97,8 +92,6 @@ site-sportnet-new&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D8
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-santos-dv&repo=landing-page-discord-clone-react&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
 </a>
 
-![Snake animation](https://github.com/rafael-santos-dv/rafael-santos-dv/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
 
