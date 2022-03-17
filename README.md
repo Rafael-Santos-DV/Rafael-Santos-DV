@@ -5,6 +5,7 @@
 <h3 align="center">Desenvolvedor Full Stack</h3>
  :house_with_garden: I’m from Brazil.
  :books: I’m currently learning everything.
+ :books: I’m currently learning everything.
 
 <h3 align="left">Connect with me:</h3>
 <div>
