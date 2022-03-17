@@ -32,7 +32,7 @@
 ![l](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![l](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![l](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![l](https://img.shields.io/badge/mongodb-ffca28?style=for-the-badge&logo=mongodb&logoColor=black)
+![l](https://img.shields.io/badge/mongodb-4DB33D?style=for-the-badge&logo=mongodb&logoColor=black)
 ### Work experience
 - Founder CEO at GrowMore
 - Freelancer
