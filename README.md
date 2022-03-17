@@ -22,7 +22,7 @@
 </a>
  
  <a href="https://linkedin.com/in/rafael-santdev" target="_blank">
-   <img height="30px" src="https://img.shields.io/badge/-instagram-C13584?style=flat-square&logo=instagram&logoColor=C13584&link=https://instagram.com/rafaelrdscoding]     (https://instagram.com/rafaelrdscoding)" />
+   <img height="30px" src="https://img.shields.io/badge/-instagram-C13584?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/rafaelrdscoding]     (https://instagram.com/rafaelrdscoding)" />
  </a>
 </div>
 
