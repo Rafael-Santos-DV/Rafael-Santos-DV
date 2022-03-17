@@ -11,7 +11,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<div style="border: 1px solid red;">
+<div border="1px solid red">
  
  <a href="https://github.com/Rafael-Santos-DV" target="_blank">
    <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rafael-Santos-DV)](https://github.com/Rafael-Santos-DV" />
