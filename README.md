@@ -97,10 +97,8 @@ site-sportnet-new&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D8
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-santos-dv&repo=landing-page-discord-clone-react&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
 </a>
 
-![Snake animation](https://github.com/rafael-santos-dv/rafael-santos-dv/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
-
+![Snake animation](https://github.com/rafael-santos-dv/rafael-santos-dv/blob/output/github-contribution-grid-snake.svg)
 
 Here are some parrots🦜
 
