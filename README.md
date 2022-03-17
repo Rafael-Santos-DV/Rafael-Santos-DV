@@ -10,10 +10,6 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/rafael-santdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rafael-santos-dv/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rafael-santdev/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rafael-santos-dv?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rafael-santos-dv/github-profile-readme-generator/master/src/images/icons/Social/rafael-santos-dv.svg" alt="https://www.hackerrank.com/rafael-santos-dv?hr_r=1" height="30" width="40" /></a>
-</p>
 
 ### SKILLS 
 ![langs](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
