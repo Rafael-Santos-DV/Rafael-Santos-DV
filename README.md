@@ -14,11 +14,15 @@
 <div>
  
  <a href="https://github.com/Rafael-Santos-DV" target="_blank">
-  <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rafael-Santos-DV)](https://github.com/Rafael-Santos-DV" />
+   <img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Rafael-Santos-DV)](https://github.com/Rafael-Santos-DV" />
  </a>
-
-<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rafael-santdev](https://linkedin.com/in/rafael-santdev)" />
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+ 
+ <a href="https://linkedin.com/in/rafael-santdev" target="_blank">
+   <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/rafael-santdev]     (https://linkedin.com/in/rafael-santdev)" />
+ </a>
+ 
+<a href="mailto:santosrafaell187@gmail.com" target="_blank">
+ <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </div>
 
 
