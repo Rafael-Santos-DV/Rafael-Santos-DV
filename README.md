@@ -19,6 +19,11 @@
  
 <a href="mailto:santosrafaell187@gmail.com" target="_blank">
  <img height="30px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+ 
+ <a href="https://linkedin.com/in/rafael-santdev" target="_blank">
+   <img height="30px" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/rafaelrdscoding]     (https://instagram.com/rafaelrdscoding)" />
+ </a>
 </div>
 
 
