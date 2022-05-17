@@ -55,44 +55,6 @@
 ![l](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
- <img align="right" height="80em" src="https://i.pinimg.com/originals/4a/ff/a0/4affa0f1f9da41409869f7da57e0f88c.gif" >
-</div>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafael-santos-dv&show_icons=true&locale=en&layout=compact&theme=radical" alt="Nikhil" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rafael-santos-dv&show_icons=true&locale=en&theme=tokyonight" alt="Nikhil" width="410" /></p>
-
-<hr>
-
-### Recent repo
-<a href="https://github.com/rafael-santos-dv/social-network-ts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-santos-dv&repo=social-network-ts&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"/>
-</a>
-
-<a href="https://github.com/rafael-santos-dv/site-mariah-store">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-santos-dv&repo=site-mariah-store&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
-</a>
-
-<a href="https://github.com/rafael-santos-dv/project-palpites-futebol-back-end">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-santos-dv&repo=project-palpites-futebol-back-end&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
-</a>
-
-<a href="https://github.com/rafael-santos-dv/project-palpites-jogos-front-end">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-santos-dv&repo=project-palpites-jogos-front-end&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
-</a>
-
-<a href="https://github.com/rafael-santos-dv/site-sportnet-new">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-santos-dv&repo=
-site-sportnet-new&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
-</a>
-
-<a href="https://github.com/rafael-santos-dv/landing-page-discord-clone-react">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rafael-santos-dv&repo=landing-page-discord-clone-react&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" />
-</a>
-
-</div>
-
-
 Here are some parrots🦜
 
 <div>
